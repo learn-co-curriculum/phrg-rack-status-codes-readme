@@ -59,4 +59,7 @@ Now if you go to `localhost:9292/badURL` you'll get the error message, and if yo
 ### Resources
 * [More on Status Codes](http://www.tutorialspoint.com/http/http_status_codes.htm)
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-rack-status-codes-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-rack-status-codes-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG HTTP Status Codes</p>
